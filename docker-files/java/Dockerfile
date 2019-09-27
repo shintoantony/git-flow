@@ -1,4 +1,4 @@
-# Java Docker image
+# This image is used to buid a custom java image
 FROM docker202020/java-base:v
 
 MAINTAINER shinto Antony

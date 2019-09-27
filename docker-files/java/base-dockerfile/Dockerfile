@@ -1,4 +1,4 @@
-# This docker image builds java base image with tomacat
+# This docker image builds java base image with Apache tomcat running
 FROM openjdk
 MAINTAINER Shinto
 
